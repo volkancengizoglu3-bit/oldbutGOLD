@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OldButGOLD</string>
+    <string name="accessibility_service_description">Allows OldButGOLD to read visible game-screen content and perform configured taps for user-enabled automation.</string>
+</resources>
